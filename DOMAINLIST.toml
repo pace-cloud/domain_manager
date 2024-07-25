@@ -1,2 +1,4 @@
-[domainname]
-ko = 'https://localhost:9000'
+[domain_name]
+ [domain_name.ko]
+ get = 'https://localhost:9000'
+ post = 'https://localhost:9000'
