@@ -2,3 +2,10 @@
  [domain_name.ko]
  get = 'https://localhost:9000'
  post = 'https://localhost:9000'
+ [domain_name.cn]
+ get = ''
+ post = ''
+[[lookup_services]]
+ url = 'https://clnuioegyckvybeikrfc.supabase.co/functions/v1/lookup-ip'
+[[lookup_services]]
+ url = 'https://www.ip.cn/api/index?ip=&type=0'
