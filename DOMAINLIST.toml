@@ -1,8 +1,8 @@
 [domain_name]
- [domain_name.ko]
+ [domain_name.KR]
  get = 'https://localhost:9000'
  post = 'https://localhost:9000'
- [domain_name.cn]
+ [domain_name.CN]
  get = ''
  post = ''
 [[lookup_services]]
