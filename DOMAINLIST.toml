@@ -1,10 +1,10 @@
 [domain_name]
  [domain_name.KR]
- get = 'https://localhost:9000'
- post = 'https://localhost:9000'
+ post = 'https://clnuioegyckvybeikrfc.supabase.co/functions/v1/post_license_log'
+ put = 'https://clnuioegyckvybeikrfc.supabase.co/functions/v1/put_license_log'
  [domain_name.CN]
- get = ''
  post = ''
+ put = ''
 [[lookup_services]]
  url = 'https://clnuioegyckvybeikrfc.supabase.co/functions/v1/lookup-ip'
 [[lookup_services]]
